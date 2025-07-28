@@ -2,31 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Padmaj&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.padmajp.com/tags/</link>
     <description>Recent content in Tags on Padmaj&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.padmajp.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camera</title>
-      <link>http://localhost:1313/tags/camera/</link>
+      <link>https://blog.padmajp.com/tags/camera/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/camera/</guid>
+      <guid>https://blog.padmajp.com/tags/camera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://blog.padmajp.com/tags/devops/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Image</title>
-      <link>http://localhost:1313/tags/image/</link>
+      <link>https://blog.padmajp.com/tags/image/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/image/</guid>
+      <guid>https://blog.padmajp.com/tags/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>https://blog.padmajp.com/tags/infrastructure/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/tags/infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Photo</title>
-      <link>http://localhost:1313/tags/photo/</link>
+      <link>https://blog.padmajp.com/tags/photo/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/photo/</guid>
+      <guid>https://blog.padmajp.com/tags/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reliability</title>
+      <link>https://blog.padmajp.com/tags/reliability/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/tags/reliability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SRE</title>
+      <link>https://blog.padmajp.com/tags/sre/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/tags/sre/</guid>
       <description></description>
     </item>
   </channel>

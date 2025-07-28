@@ -2,101 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/tags/appareil-photo/</loc>
+    <loc>https://blog.padmajp.com/fr/tags/appareil-photo/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/posts/bases-de-la-photographie/</loc>
-    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/photography-basics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/bases-de-la-photographie/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>https://blog.padmajp.com/fr/posts/bases-de-la-photographie/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://blog.padmajp.com/posts/photography-basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://blog.padmajp.com/fr/posts/bases-de-la-photographie/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/image/</loc>
+    <loc>https://blog.padmajp.com/fr/categories/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/image/"
+                href="https://blog.padmajp.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/image/"
+                href="https://blog.padmajp.com/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/photo/</loc>
+    <loc>https://blog.padmajp.com/fr/tags/image/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/photo/"
+                href="https://blog.padmajp.com/tags/image/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/photo/"
+                href="https://blog.padmajp.com/fr/tags/image/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/photographie/</loc>
-    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/posts/</loc>
+    <loc>https://blog.padmajp.com/fr/tags/photo/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://blog.padmajp.com/tags/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/posts/"
+                href="https://blog.padmajp.com/fr/tags/photo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>https://blog.padmajp.com/fr/categories/photographie/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.padmajp.com/fr/posts/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://blog.padmajp.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://blog.padmajp.com/fr/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>https://blog.padmajp.com/fr/tags/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.padmajp.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.padmajp.com/fr/tags/"
+                />
+  </url><url>
+    <loc>https://blog.padmajp.com/fr/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://blog.padmajp.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://blog.padmajp.com/fr/"
                 />
   </url>
 </urlset>

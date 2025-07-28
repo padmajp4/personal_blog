@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SRE on Padmaj&#39;s Blog</title>
+    <link>https://blog.padmajp.com/tags/sre/</link>
+    <description>Recent content in SRE on Padmaj&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.padmajp.com/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Demystifying Site Reliability Engineering (SRE): The Guardians of Modern Infrastructure</title>
+      <link>https://blog.padmajp.com/posts/demystifying-site-reliability-engineering-sre-the-guardians-of-modern-infrastructure/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/posts/demystifying-site-reliability-engineering-sre-the-guardians-of-modern-infrastructure/</guid>
+      <description>&lt;p&gt;In the ever-evolving world of software engineering, there&amp;rsquo;s one role quietly ensuring your favorite apps don’t crash when you need them the most — &lt;strong&gt;Site Reliability Engineers (SREs)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;But what exactly is &lt;strong&gt;SRE&lt;/strong&gt;? How is it different from DevOps? And why is everyone from Google to startups investing in it?&lt;/p&gt;&#xA;&lt;p&gt;Let’s break it down.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-is-site-reliability-engineering&#34;&gt;💡 What is Site Reliability Engineering?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Site Reliability Engineering (SRE)&lt;/strong&gt; is a discipline that blends software engineering with IT operations. Coined by Google, SRE is about &lt;strong&gt;automating operations&lt;/strong&gt; and &lt;strong&gt;ensuring systems are scalable, reliable, and efficient&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
