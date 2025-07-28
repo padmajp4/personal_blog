@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo on Padmaj&#39;s Blog</title>
+    <link>https://blog.padmajp.com/fr/tags/photo/</link>
+    <description>Recent content in Photo on Padmaj&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.padmajp.com/fr/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bases de la Photographie</title>
+      <link>https://blog.padmajp.com/fr/posts/bases-de-la-photographie/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/fr/posts/bases-de-la-photographie/</guid>
+      <description>&lt;p&gt;La photographie est l’art de capturer la lumière. Pour contrôler l’apparence de votre image, vous devez comprendre trois réglages fondamentaux de votre appareil photo : &lt;strong&gt;ISO&lt;/strong&gt;, &lt;strong&gt;vitesse d’obturation&lt;/strong&gt;, et &lt;strong&gt;ouverture&lt;/strong&gt;. Ensemble, ils forment ce qu’on appelle &lt;strong&gt;le triangle d’exposition&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-le-triangle-dexposition&#34;&gt;📷 Le Triangle d’Exposition&lt;/h2&gt;&#xA;&lt;p&gt;Le triangle d’exposition est un modèle visuel qui aide les photographes à équilibrer trois éléments clés pour obtenir une photo bien exposée.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;false&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;https://blog.padmajp.com/images/triangle.jpg&#34;&#xA;    alt=&#34;Le Triangle d’Exposition&#34;&#xA;    &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;https://blog.padmajp.com/images/triangle.jpg&#34;&#xA;    data-gallery-alt=&#34;Le Triangle d’Exposition&#34;&#xA;    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

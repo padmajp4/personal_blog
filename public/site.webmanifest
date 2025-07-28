@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "Tech Support Manager with expertise in the OTT industry, video streaming technologies, backend support, and cloud automation",
+  "dir": "ltr",
+  "display": "standalone",
+  "lang": "en-US",
+  "name": "Padmaj's Blog",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Padmaj",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}
