@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          submodules: recursive  # ⬅️ Important for theme to work!
+          submodules: recursive  # Important for Hugo themes
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -25,7 +25,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to Firebase Hosting
-        uses: w9jds/firebase-action@v13
+        uses: w9jds/firebase-action@v12.9.0
         with:
           args: deploy --only hosting:blog
         env:
