@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Padmaj&#39;s Blog</title>
-    <link>https://blog.padmajp.com/fr/tags/</link>
+    <link>http://localhost:1313/fr/tags/</link>
     <description>Recent content in Tags on Padmaj&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.padmajp.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appareil Photo</title>
-      <link>https://blog.padmajp.com/fr/tags/appareil-photo/</link>
+      <link>http://localhost:1313/fr/tags/appareil-photo/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.padmajp.com/fr/tags/appareil-photo/</guid>
+      <guid>http://localhost:1313/fr/tags/appareil-photo/</guid>
       <description></description>
     </item>
     <item>
       <title>Image</title>
-      <link>https://blog.padmajp.com/fr/tags/image/</link>
+      <link>http://localhost:1313/fr/tags/image/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.padmajp.com/fr/tags/image/</guid>
+      <guid>http://localhost:1313/fr/tags/image/</guid>
       <description></description>
     </item>
     <item>
       <title>Photo</title>
-      <link>https://blog.padmajp.com/fr/tags/photo/</link>
+      <link>http://localhost:1313/fr/tags/photo/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.padmajp.com/fr/tags/photo/</guid>
+      <guid>http://localhost:1313/fr/tags/photo/</guid>
       <description></description>
     </item>
   </channel>

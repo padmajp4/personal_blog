@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photo on Padmaj&#39;s Blog</title>
-    <link>https://blog.padmajp.com/tags/photo/</link>
+    <link>http://localhost:1313/tags/photo/</link>
     <description>Recent content in Photo on Padmaj&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.padmajp.com/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/photo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography Basics</title>
-      <link>https://blog.padmajp.com/posts/photography-basics/</link>
+      <link>http://localhost:1313/posts/photography-basics/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.padmajp.com/posts/photography-basics/</guid>
-      <description>&lt;p&gt;Photography is the art of capturing light. To control how your image looks, you need to understand three fundamental settings on your camera: &lt;strong&gt;ISO&lt;/strong&gt;, &lt;strong&gt;Shutter Speed&lt;/strong&gt;, and &lt;strong&gt;Aperture&lt;/strong&gt;. Together, they form what is called the &lt;strong&gt;Exposure Triangle&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-the-exposure-triangle&#34;&gt;📷 The Exposure Triangle&lt;/h2&gt;&#xA;&lt;p&gt;The exposure triangle is a visual model that helps photographers balance three key elements to achieve a well-exposed photograph.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;false&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;https://blog.padmajp.com/images/triangle.jpg&#34;&#xA;    alt=&#34;Exposure Triangle&#34;&#xA;    &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;https://blog.padmajp.com/images/triangle.jpg&#34;&#xA;    data-gallery-alt=&#34;Exposure Triangle&#34;&#xA;    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;/figure&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/photography-basics/</guid>
+      <description>&lt;p&gt;Photography is the art of capturing light. To control how your image looks, you need to understand three fundamental settings on your camera: &lt;strong&gt;ISO&lt;/strong&gt;, &lt;strong&gt;Shutter Speed&lt;/strong&gt;, and &lt;strong&gt;Aperture&lt;/strong&gt;. Together, they form what is called the &lt;strong&gt;Exposure Triangle&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-the-exposure-triangle&#34;&gt;📷 The Exposure Triangle&lt;/h2&gt;&#xA;&lt;p&gt;The exposure triangle is a visual model that helps photographers balance three key elements to achieve a well-exposed photograph.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;false&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;http://localhost:1313/images/triangle.jpg&#34;&#xA;    alt=&#34;Exposure Triangle&#34;&#xA;    &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;http://localhost:1313/images/triangle.jpg&#34;&#xA;    data-gallery-alt=&#34;Exposure Triangle&#34;&#xA;    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;/figure&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
