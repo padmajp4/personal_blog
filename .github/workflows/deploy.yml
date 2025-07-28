@@ -1,0 +1,32 @@
+name: Build and Deploy Blog to Firebase
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v3
+        with:
+          submodules: true  # Needed if you're using a Hugo theme as a submodule
+          fetch-depth: 0
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.121.1'  # Update this to your Hugo version
+          extended: true
+
+      - name: Install Firebase CLI
+        run: npm install -g firebase-tools
+
+      - name: Build Hugo site
+        run: hugo
+
+      - name: Deploy to Firebase
+        run: firebase deploy --only hosting:blog --token ${{ secrets.FIREBASE_TOKEN }}

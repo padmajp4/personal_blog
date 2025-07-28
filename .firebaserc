@@ -5,7 +5,9 @@
   "targets": {
     "padmaj-6f1a5": {
       "hosting": {
-        "blog": ["padmaj-blog"]
+        "blog": [
+          "padmaj-blog"
+        ]
       }
     }
   }
