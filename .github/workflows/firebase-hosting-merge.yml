@@ -1,0 +1,30 @@
+name: Deploy Hugo blog to Firebase Hosting
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.125.6' # or whatever version you're using
+          extended: true
+
+      - name: Install Firebase CLI
+        uses: w9jds/firebase-action@v13.0.1
+        with:
+          args: deploy --only hosting:blog --project=padmaj-blog
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+
+      - name: Build Hugo Site
+        run: hugo
