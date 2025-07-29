@@ -244,16 +244,16 @@ params:
 
 
   analytics:
-    enabled: false
+    enabled: true
     baidu:
       enabled: false
       id: "your-baidu-analytics-id"
     clarity:
-      enabled: false
-      analytics: "your-clarity-analytics-id"
+      enabled: true
+      analytics: "smcaaavjre"
     google:
-      enabled: false
-      id: "your-google-analytics-id"
+      enabled: true
+      id: "G-YDCYLHQ6KK"
     umami: 
       enabled: false
       id: "your-umami-website-id"

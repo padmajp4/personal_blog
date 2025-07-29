@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.padmajp.com/fr/posts/d%C3%A9mystifier-le-site-reliability-engineering-sre-les-gardiens-de-linfrastructure-moderne/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.padmajp.com/posts/demystifying-site-reliability-engineering-sre-the-guardians-of-modern-infrastructure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.padmajp.com/fr/posts/d%C3%A9mystifier-le-site-reliability-engineering-sre-les-gardiens-de-linfrastructure-moderne/"
+                />
+  </url><url>
     <loc>https://blog.padmajp.com/fr/tags/appareil-photo/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,6 +44,22 @@
                 href="https://blog.padmajp.com/fr/categories/"
                 />
   </url><url>
+    <loc>https://blog.padmajp.com/fr/tags/devops/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.padmajp.com/tags/devops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.padmajp.com/fr/tags/devops/"
+                />
+  </url><url>
+    <loc>https://blog.padmajp.com/fr/tags/fiabilit%C3%A9/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.padmajp.com/fr/tags/image/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -42,6 +71,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://blog.padmajp.com/fr/tags/image/"
+                />
+  </url><url>
+    <loc>https://blog.padmajp.com/fr/tags/infrastructure/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.padmajp.com/tags/infrastructure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.padmajp.com/fr/tags/infrastructure/"
                 />
   </url><url>
     <loc>https://blog.padmajp.com/fr/tags/photo/</loc>
@@ -71,6 +113,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://blog.padmajp.com/fr/posts/"
+                />
+  </url><url>
+    <loc>https://blog.padmajp.com/fr/categories/sre/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.padmajp.com/categories/sre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.padmajp.com/fr/categories/sre/"
+                />
+  </url><url>
+    <loc>https://blog.padmajp.com/fr/tags/sre/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.padmajp.com/tags/sre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.padmajp.com/fr/tags/sre/"
                 />
   </url><url>
     <loc>https://blog.padmajp.com/fr/tags/</loc>

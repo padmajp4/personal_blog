@@ -16,6 +16,20 @@
       <description></description>
     </item>
     <item>
+      <title>DevOps</title>
+      <link>https://blog.padmajp.com/fr/tags/devops/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/fr/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fiabilité</title>
+      <link>https://blog.padmajp.com/fr/tags/fiabilit%C3%A9/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/fr/tags/fiabilit%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Image</title>
       <link>https://blog.padmajp.com/fr/tags/image/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
@@ -23,10 +37,24 @@
       <description></description>
     </item>
     <item>
+      <title>Infrastructure</title>
+      <link>https://blog.padmajp.com/fr/tags/infrastructure/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/fr/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Photo</title>
       <link>https://blog.padmajp.com/fr/tags/photo/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.padmajp.com/fr/tags/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SRE</title>
+      <link>https://blog.padmajp.com/fr/tags/sre/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/fr/tags/sre/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure on Padmaj&#39;s Blog</title>
+    <link>https://blog.padmajp.com/fr/tags/infrastructure/</link>
+    <description>Recent content in Infrastructure on Padmaj&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.padmajp.com/fr/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Démystifier le Site Reliability Engineering (SRE) : Les Gardiens de l’Infrastructure Moderne</title>
+      <link>https://blog.padmajp.com/fr/posts/d%C3%A9mystifier-le-site-reliability-engineering-sre-les-gardiens-de-linfrastructure-moderne/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.padmajp.com/fr/posts/d%C3%A9mystifier-le-site-reliability-engineering-sre-les-gardiens-de-linfrastructure-moderne/</guid>
+      <description>&lt;p&gt;Dans le monde en constante évolution de l’ingénierie logicielle, un rôle discret veille à ce que vos applications préférées ne tombent pas en panne au pire moment — ce sont les &lt;strong&gt;Site Reliability Engineers (SRE)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Mais qu’est-ce que le &lt;strong&gt;SRE&lt;/strong&gt; exactement ? En quoi est-il différent du DevOps ? Et pourquoi tout le monde, de Google aux startups, y investit-il autant ?&lt;/p&gt;&#xA;&lt;p&gt;Décryptons cela ensemble.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-quest-ce-que-le-site-reliability-engineering-&#34;&gt;💡 Qu’est-ce que le Site Reliability Engineering ?&lt;/h2&gt;&#xA;&lt;p&gt;Le &lt;strong&gt;Site Reliability Engineering (SRE)&lt;/strong&gt; est une discipline qui fusionne le développement logiciel avec les opérations informatiques. Concept créé par Google, le SRE vise à &lt;strong&gt;automatiser les opérations&lt;/strong&gt; tout en garantissant des systèmes &lt;strong&gt;scalables, fiables et efficaces&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
